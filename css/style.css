@@ -1,0 +1,23 @@
+body {
+
+  /* Initialisation du style général */
+  
+    background-image: url('https://media.discordapp.net/attachments/590243706444054529/1052985399158517781/Sans_titre-1.png?width=1202&height=676');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:Arial;
+    font-weight: bold;
+   
+}
+  /* Selection de couleur */
+
+::-moz-selection {
+  color: #fff;
+  background-color: #898c9f;
+}
+::selection {
+  color: #fff;
+  background-color: #898c9f;
+
+
+}
