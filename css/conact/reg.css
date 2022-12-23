@@ -1,5 +1,4 @@
- /* Inscription */
- 
+/* Connexion */
 .reg-form-box {
     border: 1px solid #1c2021;
     padding: 30px 25px 10px 25px;
@@ -7,9 +6,6 @@
     margin: 300px auto;
     width: 360px;
     border-radius: 10px
-  }
-  h1.box-logo a {
-    text-decoration:none;
   }
   h1.reg-form-box-title {
     color: #fff;
@@ -21,6 +17,8 @@
     text-align:center;
     margin: -27px -26px 26px;
     border-radius: 10px;
+    font-family:Arial;
+    font-weight: bold;
     
   }
   .reg-form-box-button {
@@ -35,15 +33,17 @@
     color: #fff;
     border: 0;
     outline:0;
+    font-family:Arial;
+    font-weight: bold;
   }
-  .box-register
+  .reg-form-box-register
   {
     text-align:center;
     margin-bottom:0px;
     font-size:13px;
     color: #fff;
   }
-  .box-register a
+  .reg-form-box-register a
   {
     text-decoration:none;
     font-size:12px;
@@ -58,6 +58,8 @@
     border-radius: 5px;
     width: 347px;
     height: 50px;
+    font-family:Arial;
+
   }
   .reg-form-box-input:focus {
       outline: none;

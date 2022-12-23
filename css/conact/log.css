@@ -1,5 +1,4 @@
  /* Connexion */
- 
   .log-form-box {
     border: 1px solid #1c2021;
     padding: 30px 25px 10px 25px;
@@ -8,9 +7,7 @@
     width: 360px;
     border-radius: 10px
   }
-  h1.box-logo a {
-    text-decoration:none;
-  }
+
   h1.log-form-box-title {
     color: #fff;
     background: #1c2021;
