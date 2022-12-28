@@ -1,9 +1,9 @@
-/* Information Tool : Check*/
-.tool-check-box{
+/* Information DEV : Sommaire*/
+.dev-box{
     position:absolute;
     top: 100px;
-    left: 400px;
-    right: 400px;
+    left: 650px;
+    right: 650px;
    
     margin: 0 auto;
     background: #1c2021;
@@ -14,3 +14,4 @@
     text-align: center;
     
   }
+  
