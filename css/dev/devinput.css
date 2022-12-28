@@ -1,9 +1,9 @@
-/* Information DEV : Sec*/
-.dev-sec-box{
+/* Information DEV : Input*/
+.dev-input-box{
     position:absolute;
     top: 100px;
-    left: 300px;
-    right: 300px;
+    left: 400px;
+    right: 400px;
    
     margin: 0 auto;
     background: #1c2021;
@@ -15,7 +15,7 @@
     
   }
   
-  #dev-sec-img1{
+  #dev-input-img1{
     height: 40%;
     width: 40%;
   }
