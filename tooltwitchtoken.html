@@ -13,14 +13,13 @@
         <link rel="stylesheet" href="css/navbar.css">
     
         
-        <link rel="stylesheet" href="css/tool/toolcheck.css">
+        <link rel="stylesheet" href="css/tool/toottwitchtoken.css">
       
     
 </head>
 
 <body>
-    
-    <!-- Insertion Menu/Submenu-->
+
     <header>
         <nav id="all-navbar">
                 <ul class="navbar">
@@ -96,36 +95,53 @@
         </nav>
     </header>
 
-    <main>
+<main>
+    <div class="checker">
+        <div class="text">
+            <h1>Checker Twitch Token - KafirCorp </h1>
+        </div>
+        <div class="center">
+            <textarea name="tokens" id="tokens" placeholder="Enter vos token ici..."></textarea>
+            <button onclick="checker()">Commencer la vérification</button>
+        </div>
+    </div>
 
-    <!-- Initialisation Texte : ToolCheck-->
-    <section> 
-        <article class="tool-check-box">
-            <h2>Bienvenue dans l'espace ToolBox!</h2>
-            <p1>Ceci est un endroit ou vous obtiendrez des informations sur les différents checkers pour la vérifcation de validité de comptes leak.<br>
-                <br>
-                Checkers Général : <br>
-                <a href="https://mytoolz.net/tools/checkers">Mytoolz</a><br>
-                <br>
+    <div class="stats">
+        <div class="results">
+            <div class="valid results-box">
+                <div class="title">
+                    <i class="fas fa-check-circle"></i>Token Valide <a class="checked-count-valid" id="valid-count">0</a>
+                </div>
+                <div id="valid-tokens" class="body">
+                </div>
+            </div>
 
-                Checkers spécifique : <br>
+            <div class="invalid results-box">
+                <div class="title">
+                    <i class="fas fa-times-circle"></i>Tokens Invalide<a class="checked-count-invalid" id="invalid-count">0</a>
+                </div>
+                <div id="invalid-tokens" class="body">
+                </div>
+            </div>
 
-                <a href="https://github.com/ShadowOxygen/OxygenX/releases/tag/v0.8">Minecraft</a><br>
-                <a href="https://whatismyipaddress.com/blacklist-check">Proxy BlackList</a><br>
-                
-            </p1>
-            
-            <footer>
-                <br>
-                Source : 
-                <a href="https://github.com/AsuraNeah/2">GitHub</a>
-            </footer>
+            <div class="unknow results-box">
+                <div class="title">
+                    <i class="fas fa-times-circle"></i>Tokens Inconnue / Erreur <a class="checked-count-unknow" id="unknow-count">0</a>
+                </div>
+                <div id="unknow-tokens" class="body">
+                </div>
+            </div>
+        </div>
+    </div>
 
-        </article>
-    </section>
+    <footer>
+        Source : <a href="https://github.com/KanekiWeb">Kaneki Web</a>
+        <a href="https://github.com/AsuraNeah/2">GitHub</a>
+    </footer>
+</main>
 
-    </main>
-
-
+    <script src="css/tool/assets/app.js"></script>
 
 </body>
+
+</html>

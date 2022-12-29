@@ -6,8 +6,8 @@ body {
     background-size: cover;
     background-color: black;
     background-repeat: no-repeat;
-    font-family:Arial;
-    font-weight: bold;
+    font-family: 'Inter',Roobert,Helvetica Neue,Helvetica,Arial, sans-serif;
+    font-weight: inherit;
    
 }
   /* Selection de couleur */

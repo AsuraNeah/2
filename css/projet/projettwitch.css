@@ -1,0 +1,18 @@
+/* Information Projet : Sommaire*/
+.projet-twitch-box{
+    position:absolute;
+    top: 100px;
+    left: 650px;
+    right: 650px;
+   
+    margin: 0 auto;
+    background: #1c2021;
+    border-radius: 10px;
+  
+    padding: 10px;
+    color: white;
+    text-align: left;
+    
+  }
+
+  
