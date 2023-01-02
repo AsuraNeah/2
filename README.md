@@ -4,7 +4,7 @@ Site web en cours de développement permettant de réunir de multiples connaissa
 
 ![Logo](https://media.discordapp.net/attachments/1023249801996939426/1059581913754509352/logo-barre.png)
 
-## Authors
+## Auteurs
 
 - [@1Deniil](https://github.com/1Deniil)
 - [@Unahzaal](https://github.com/AsuraNeah)
@@ -18,12 +18,15 @@ Site web en cours de développement permettant de réunir de multiples connaissa
 
 | Couleur           | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Violet        | ![#3a09ac](https://via.placeholder.com/10/0a192f?text=+) #3a09ac |
-| Noir          | ![#000000](https://via.placeholder.com/10/f8f8f8?text=+) #000000 |
-| Blanc         | ![#FFFFFF](https://via.placeholder.com/10/00b48a?text=+) #FFFFFF |
+| Violet        | ![#3a09ac](https://via.placeholder.com/10/3a09ac?text=+) #3a09ac |
+| Noir          | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+| Blanc         | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
 
+## Features
 
+- Responsive
+- Cross platform
 
-## License
+## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
