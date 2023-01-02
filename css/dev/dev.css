@@ -1,18 +1,18 @@
 /* Information DEV : Sommaire*/
 .dev-box{
-    position:flex;
-    box-sizing: border-box;    
-    height: 20%;
-    width: 30%;
-   
-    margin: 150px 700px;
-    background: #1c2021;
+  position:flex;
+  box-sizing: border-box;    
+  height: 20%;
+  width: 30%;
+ 
+  margin: 150px auto;
+  background: #1c2021;
 
-    border-radius: 10px;
-    padding: 10px;
+  border-radius: 10px;
+  padding: 10px;
 
-    color: white;
-    text-align: center;
-    
+  color: white;
+  text-align: center;
+  
   }
   
