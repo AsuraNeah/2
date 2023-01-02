@@ -1,17 +1,17 @@
 /* Information Projet : Sommaire*/
 .projet-box{
-    position:absolute;
-    top: 100px;
-    left: 650px;
-    right: 650px;
-   
-    margin: 0 auto;
-    background: #1c2021;
-    border-radius: 10px;
-  
-    padding: 10px;
-    color: white;
-    text-align: center;
-    
+  position:flex;
+  box-sizing: border-box;    
+  height: 20%;
+  width: 50%;
+ 
+  margin: 150px 300px;
+  background: #1c2021;
+
+  border-radius: 10px;
+  padding: 10px;
+
+  color: white;
+  text-align: center;
   }
   
