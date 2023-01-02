@@ -16,11 +16,12 @@ Site web en cours de développement permettant de réunir de multiples connaissa
 
 ## Color Reference
 
-| Couleur           | Hex                                                                |
+| Couleur             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Violet        | ![#3a09ac](https://via.placeholder.com/10/3a09ac?text=+) #3a09ac |
-| Noir          | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| Blanc         | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Violet | ![#3a09ac](https://via.placeholder.com/10/3a09ac?text=+) #3a09ac |
+| Blanc | ![#FFFFFF](https://via.placeholder.com/10/000000?text=+) #000000 |
+| Noir | ![#000000](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+
 
 ## Features
 
