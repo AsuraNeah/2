@@ -14,7 +14,7 @@
     
         
         <link rel="stylesheet" href="css/acl/aclanc.css">
-      
+        <link rel="stylesheet" href="css/acl/aclchat.css">
     
 </head>
 <body>
@@ -104,7 +104,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat suscipit viverra. Cras cursus euismod urna non rutrum. 
 					Cras odio neque, tristique sit amet urna vel, suscipit porta tortor. Nam porta id odio vel mattis. Nulla placerat diam a lorem volutpat,
 					eget cursus nulla vehicula 
-            
+        
 			</p3><br>
 
 			<p4> <br>
@@ -125,14 +125,41 @@
         </div>
 
         <div class="acl-chat-box">
-            <h2>Discussion Général</h2>
-            <br>
-            <!-- Insertion Chat-->
+            <div class="acl-chat-header">
+              <h3>Chat</h3>
+            </div>
+            <div class="acl-messages">
+              <div class="acl-message-bubble me">
+                <p>Bonjour ! Comment vas-tu ?</p>
+              </div>
+              <div class="acl-message-bubble you">
+                <p>Salut ! Ça va bien, et toi ?</p>
+              </div>
+              <div class="acl-message-bubble me">
+                <p>Je vais bien aussi, merci !</p>
+              </div>
+            </div>
+            <form class="acl-chat-form">
+              <input type="text" class="acl-message-input" placeholder="Ecris ton message ici...">
+              <button type="submit">Envoyer</button>
+            </form>
+        </div>
+
+
+    </section>
+
+    <section class="acl-box-bot">
+        <div class="acl-img-box">
+            <h2>Photo : </h2><br>
             <img src="https://cdn.discordapp.com/attachments/590243706444054529/996859351602053160/IMG_1711.jpg" alt="oupopo" class="imgoupopo">
             <img src="https://media.discordapp.net/attachments/880036662875418654/980556425333981235/49132081.png" alt="imgtest" class="imgtest">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdT4O3ELNhvUFF1UZa5Ven2A8hP18qZXG7NmnoQPiIcTf3aXWJBVSiUrCXCb0vdioifUY&usqp=CAU" alt="imgtest" class="imgtest">
+            <img src="https://media.discordapp.net/attachments/590243706444054529/952668199500005386/unknown.png?width=918&height=675" alt="imgtest" class="imgtest">
+            <img src="https://media.discordapp.net/attachments/590243706444054529/741089016702697522/latest.png" alt="imgtest" class="imgtest">
         </div>
+
     </section>
-    
+
     </main>
     
 </body>

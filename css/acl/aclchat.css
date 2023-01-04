@@ -1,0 +1,60 @@
+.acl-chat {
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.acl-chat-header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.acl-messages {
+  height: 75%;
+  overflow-y: scroll;
+  padding: 10px;
+}
+
+.acl-message-bubble {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 10px;
+}
+
+.acl-message-bubble p {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.me {
+  justify-content: flex-end;
+}
+
+.you {
+  justify-content: flex-start;
+}
+
+.acl-chat-form {
+  display: flex;
+}
+
+.acl-chat-form .acl-message-input {
+  flex-grow: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.acl-chat-form button {
+  padding: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
