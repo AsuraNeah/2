@@ -12,7 +12,7 @@ Site web en cours de développement permettant de réunir de multiples connaissa
 
 ## Screenshots
 
-![App Screenshot](https://media.discordapp.net/attachments/1023249801996939426/1059584681370202222/image.png?width=1373&height=676)
+![App Screenshot](https://media.discordapp.net/attachments/590243706444054529/1059989072887693362/image.png?width=1345&height=676)
 
 ## Color Reference
 
